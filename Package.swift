@@ -21,5 +21,6 @@ let package = Package(
         .target(
             name: "AFDataHelper",
             dependencies: []),
-    ]
+    ],
+    swiftLanguageVersions: [.v2]
 )
