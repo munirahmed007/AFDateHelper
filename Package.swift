@@ -26,5 +26,5 @@ let package = Package(
             name: "AFDateHelperTests",
             dependencies: ["DateHelper"]),
     ],
-    swiftLanguageVersions: [.v5]
+    swiftLanguageVersions: [.v2]
 )
